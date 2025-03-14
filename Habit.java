@@ -18,7 +18,7 @@ public String getName(){
     }
 
 public int getStreak(){
-    reurn streak;
+    return streak;
 
     }
 
